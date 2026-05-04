@@ -86,25 +86,6 @@ The model predicts house price based on:
 
 Model performance demonstrates strong predictive capability.
 
----
 
-## ▶️ How to Run This Project
-
-1. Clone or download this repository
-
-2. Install required Python libraries
-
-```
-pip install pandas numpy matplotlib seaborn scikit-learn
-```
-
-
-3. Open the notebook file:
-
-```
-dsproject.ipynb
-```
-
-4. Run all cells sequentially to reproduce the results.
 
 
